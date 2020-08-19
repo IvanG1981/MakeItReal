@@ -1,7 +1,13 @@
 body {
   background-image: url(Bogota.png);
   color: white;
-  font-family: 'Paytone One', sans-serif;
+  font-family: 'Syncopate', sans-serif;
+}
+img {
+  border-radius: 50%;
+  border-style: solid;
+  border-width: 5px;
+  border-color: white;
 }
 .container {
   margin-top: 10%;
