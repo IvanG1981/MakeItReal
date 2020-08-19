@@ -1,0 +1,10 @@
+body {
+  background-image: url(Bogota.png);
+  color: white;
+  font-family: 'Paytone One', sans-serif;
+}
+.container {
+  margin-top: 10%;
+  text-align: center;
+
+}
